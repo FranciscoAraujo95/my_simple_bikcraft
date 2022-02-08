@@ -267,3 +267,19 @@ span:hover {
     text-align: left;
   }
 }
+
+@media (max-width: 400px) {
+  .introducao h1 {
+    font-size: 1.2rem;
+  }
+
+  .introducao p {
+    font-size: 0.9rem;
+    text-align: left;
+  }
+
+  .botao {
+    padding: 0.5rem 1rem;
+    font-size: 0.7rem;
+  }
+}
